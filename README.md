@@ -7,7 +7,7 @@
 :fax::page_with_curl: typewriter simulator
 ```
 from os import system
-import sys, time, random
+import sys, time
 
 def texto_vintage(texto):
 	for letra in texto:
